@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @tajammul-shaik
 -  I’m interested in Flutter, Dart, Python, Java, Spring Framework, Spring-MVC, Spring Boot
 -  Experienced in Java, Flutter, Spring Framework, Hibernate, Oracle-SQL, MS-SQL, Shell Scripting
--  I’m looking to collaborate on Flutter Apps Development
+-  I’m looking to collaborate on Projects : Java, Spring Framwork, Springboot, JSP, Servlet, Microservices, Monolith Java Applications and Flutter Apps Development
 -  Reach me @tajammul.taj.shaik@gmail.com
 
 <!---
